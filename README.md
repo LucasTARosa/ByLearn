@@ -31,3 +31,9 @@ Neste repositório estarei adicionando todo o meu estudo sobre Python na platafo
     - Tuplas
     - Dicionários
     - Conjuntos
+ 
+ - Módulo 6
+    - Funções
+    - Funções chamando funções
+    - Funções nativas do Python
+    - Como descobrir atributos de uma função e como funcionam
