@@ -37,3 +37,16 @@ Neste repositório estarei adicionando todo o meu estudo sobre Python na platafo
     - Funções chamando funções
     - Funções nativas do Python
     - Como descobrir atributos de uma função e como funcionam
+
+ - Módulo 7
+    - Trabalhando com pacotes externos
+    - Numpy
+    - Matplotlib
+    - Random
+    - Requests
+
+ - Módulo 8
+    - Definição de classes
+    - Definição de atributos
+    - Definição de métodos
+    - Desafios para treinamento
