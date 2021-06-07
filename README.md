@@ -50,3 +50,13 @@ Neste repositório estarei adicionando todo o meu estudo sobre Python na platafo
     - Definição de atributos
     - Definição de métodos
     - Desafios para treinamento
+
+ - Módulo 9
+    - Manipulação de arquivos
+    - Leitura de arquivos txt
+    - Escrita de arquivos txt
+
+ - Módulo 10
+    - Tratamento de erros
+    - Tratamento de exceções
+    - Utilização de try, except e finally
